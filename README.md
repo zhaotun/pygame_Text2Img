@@ -4,13 +4,11 @@ Generate image from text with pygame.
 本项目通过pygame将字符转为图片，可以用来制作字符分类或字符识别的数据集，可以对字符的字体、大小、颜色、是否加粗等进行一系列的设置。
 
 ## 需要安装：
-python 
-pygame : pip install pygame
+python 和 pygame (pip install pygame)
 
 ## text2image.py
 
 这是一个字符转图片的简单demo，运行的结果保存在test2imgs_res目录。
-![text2image.py运行结果](D:\Text2Img\test2imgs_res\fangsong_年&1#2.jpg)
 
 ## GenerateTextImagesForClassification.py
 
