@@ -1,7 +1,7 @@
 # pygame_Text2Img
 Generate image from text with pygame.
 
-本项目通过pygame将字符转为图片，可以用来制作字符分类或字符识别的数据集，可以对字符的字体、大小、颜色、是否加粗等进行一系列的设置。
+本项目通过pygame将字符转为图片，可以用来制作字符分类或字符识别的数据集，可以对字符的字体、大小、颜色、是否加粗等进行一系列的设置，可以将字符添加到特定的背景图片上。
 
 ## 需要安装：
 python 和 pygame (pip install pygame)
